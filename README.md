@@ -1,1 +1,17 @@
-# hbotv.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:998
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:16
+#EXTINF:10.376367,
+https://tv.teleclub.xyz/hls/ts/31_998.ts
+#EXTINF:10.376367,
+https://tv.teleclub.xyz/hls/ts/31_999.ts
+#EXTINF:10.143367,
+https://tv.teleclub.xyz/hls/ts/31_1000.ts
+#EXTINF:9.376367,
+https://tv.teleclub.xyz/hls/ts/31_1001.ts
+#EXTINF:15.582367,
+https://tv.teleclub.xyz/hls/ts/31_1002.ts
+#EXTINF:4.137367,
+https://tv.teleclub.xyz/hls/ts/31_1003.ts
